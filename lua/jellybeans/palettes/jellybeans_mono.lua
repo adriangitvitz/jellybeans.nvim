@@ -7,7 +7,7 @@ local str = "#a08070"
 ---@class Palette
 local palette = {
   foreground = "#e8e8d3",
-  background = "#151515",
+  background = "#090F19",
 
   accent_color_1 = accent_color_1,
   accent_color_2 = accent_color_2,
@@ -41,11 +41,11 @@ local palette = {
   old_brick = "#f0e0d6",
 
   -- Diagnostics
-  error = "#ff0000",
-  warning = "#ffaf00",
-  info = "#87d7ff",
-  hint = "#a08070", -- more subtle brown
-  ok = "#afd787",
+  error = "#db9b9b",
+  warning = "#ec9a34",
+  info = "#92a1ba",
+  hint = "#caa98f", -- more subtle brown
+  ok = "#88ad9c",
 
   -- Needed for compatibility with other palettes
   morning_glory = accent_color_2,
