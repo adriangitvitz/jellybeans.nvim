@@ -14,7 +14,7 @@ local palette = {
   str = str,
 
   perano = accent_color_2,
-  grey = "#495773",
+  grey = "#a4a9ae",
   grey_one = "#1c1c1c",
   grey_two = "#f0f0f0",
   grey_three = "#333333",
