@@ -1,7 +1,7 @@
 local Util = require("jellybeans.util")
 
 local accent_color_1 = "#b39066"
-local accent_color_2 = "#7a8aa6"
+local accent_color_2 = "#9da9be"
 local str = "#a08070"
 
 ---@class Palette
@@ -30,7 +30,7 @@ local palette = {
   boulder = "#a6abc2",
   cocoa_brown = "#302028",
   grey_chateau = "#a0a8b0",
-  bright_grey = "#8dacd9",
+  bright_grey = "#060B12",
   shuttle_grey = "#535d66",
   mine_shaft = "#1f1f1f",
   temptress = "#40000a",
